@@ -27,6 +27,7 @@ This project analyzes user interactions with articles on the IBM Watson Studio p
 │   ├── top_20.p                      # Pickled results for top 20 articles
 │   └── user_item_matrix.p            # Pickled user-item interaction matrix
 ├── README.md                         # This file
+└── requirements.txt                  # Python dependencies
 ```
 
 ---
