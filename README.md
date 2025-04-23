@@ -20,8 +20,13 @@ This project analyzes user interactions with articles on the IBM Watson Studio p
 │   └── articles_community.csv        # Article metadata
 ├── notebooks/
 │   └── Recommendations_with_IBM.ipynb # Jupyter notebook with all analysis and code
+├── project_files/                    # Additional project files included
+│   ├── project_tests.py             # Test suite for notebook functions
+│   ├── top_5.p                       # Pickled results for top 5 articles
+│   ├── top_10.p                      # Pickled results for top 10 articles
+│   ├── top_20.p                      # Pickled results for top 20 articles
+│   └── user_item_matrix.p            # Pickled user-item interaction matrix
 ├── README.md                         # This file
-└── requirements.txt                  # Python dependencies
 ```
 
 ---
